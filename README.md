@@ -11,7 +11,6 @@ This repository contains code for segmenting glacier images, applying selective 
   - [Prepare the Dataset](#prepare-the-dataset)
   - [Run the Segmentation and Filtering](#run-the-segmentation-and-filtering)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
@@ -91,11 +90,3 @@ Total Pixel Error: 123456
 Mean Squared Error (MSE): 78.9
 Root Mean Squared Error (RMSE): 8.88
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to open issues or pull requests for any improvements or questions related to this project. Contributions are welcome!
